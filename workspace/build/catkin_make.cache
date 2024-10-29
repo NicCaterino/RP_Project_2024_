@@ -1,0 +1,2 @@
+mrsim
+-DCATKIN_DEVEL_PREFIX=/home/lattinone/Desktop/RP_project_2024/workspace/devel -DCMAKE_INSTALL_PREFIX=/home/lattinone/Desktop/RP_project_2024/workspace/install -G Unix Makefiles
