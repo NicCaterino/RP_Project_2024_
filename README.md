@@ -25,7 +25,7 @@ change the following string accordingly to your system path:
   
     string image_path = "/home/lattinone/Desktop/RP_project_2024/map/" + map;
 ```
-
+ and then in ordeto to compile ... 
 
 ```code
 cd /workspace
